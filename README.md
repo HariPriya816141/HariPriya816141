@@ -13,7 +13,10 @@ I enjoy transforming ideas into responsive, scalable, and user-centric applicati
 </p>
 
 <p align="center">
-💼 Open to Full Stack Software Developer opportunities.<br>
+🌐 <strong><a href="https://portfolio-three-dusky-82.vercel.app/">View My Portfolio</a></strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💼 Open to Full Stack Software Developer opportunities.
+<br>
 🚀 Continuously improving my DSA, cloud fundamentals, and AI application development skills.
 </p>
 
@@ -100,7 +103,7 @@ Interactive cryptocurrency dashboard built with React and Redux Toolkit featurin
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HariPriya816141)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Haripriya2410/)
 
-> 🌐 Portfolio website will be added once the latest version is finalized.
+🌐 **[Portfolio](https://portfolio-three-dusky-82.vercel.app/)** — Explore my projects, technical skills, journey, and more.
 
 ---
 
